@@ -27,8 +27,3 @@
 ![aiaic_toprod5b013.png](../../media/5b_prod/aiaic_toprod5b013.png)
 
 ![aiaic_toprod5b014.png](../../media/5b_prod/aiaic_toprod5b014.png)
-
-
-[A2A Multi-Agent](./src/5a_a2a)
-
-[Deploy Agent to Production](./src/5b_prod)
