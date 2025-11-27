@@ -4,7 +4,7 @@
 
 ![aiaic_toprod5b002.png](../../media/5b_prod/aiaic_toprod5b002.png)
 
-![aiaic_toprod5b003.png](../../media/5b_prod/aiaic_toprod5b003.png)
+![aiaic_toprod5b003.png](../../media/5b_prod/aiaic_ctoprod5b003.png)
 
 ![aiaic_toprod5b004.png](../../media/5b_prod/aiaic_toprod5b004.png)
 
